@@ -2,9 +2,13 @@
 
 În cadrul disciplinei Tehnologii Web am realizat, în echipa formată din trei persoane, un proiect ce constă într-o aplicații web care să permită gestionarea notițelor luate la curs/seminar, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
+*TEHNOLOGIILE UTILIZATE:* <br />
+֍ Limbaje de programare – JavaScript, HTML <br />
+֍ Mediul de dezvoltare – Visual Studio Code <br />
+
 *DESCRIERE:* <br />
-+ Aplicația permite organizarea notițelor de către student în funcție de materiile la care participă și activitățile de studiu individual. 
-+ Platforma este bazată pe o aplicație web cu arhitectură de tip Single Page Application accesibilă în browser de pe desktop, dispozitive mobile sau tablete (considerând preferințele utilizatorului). 
++ Aplicația permite ***organizarea notițelor*** de către student în funcție de materiile la care participă și activitățile de studiu individual. 
++ Platforma este bazată pe o ***aplicație web cu arhitectură de tip Single Page Application*** accesibilă în browser de pe desktop, dispozitive mobile sau tablete (considerând preferințele utilizatorului). 
 + Editorul de notițe este ușor de folosit pentru a prelua informațiile în timpul cursului/seminarului. Implementează un sistem de markdown pentru a realiza formatarea textului. 
 
 *FUNCȚIONALITĂȚI:* <br />
