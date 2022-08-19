@@ -3,7 +3,7 @@
 În cadrul disciplinei Tehnologii Web am realizat, în echipa formată din trei persoane, un proiect ce constă într-o aplicații web care să permită gestionarea notițelor luate la curs/seminar, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
 *TEHNOLOGIILE UTILIZATE:* <br />
-֍ Limbaje de programare – JavaScript, HTML <br />
+֍ Limbajele de programare – JavaScript, HTML <br />
 ֍ Mediul de dezvoltare – Visual Studio Code <br />
 
 *DESCRIERE:* <br />
