@@ -1,10 +1,10 @@
 # APLICAȚIE WEB PENTRU GESTIONAREA NOTIȚELOR DE CURS/SEMINAR - PROIECT TEHNOLOGII WEB
 
-În cadrul disciplinei Tehnologii Web am realizat, în echipa formată din trei persoane, un proiect ce constă într-o aplicații web care să permită gestionarea notițelor luate la curs/seminar, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
+În cadrul disciplinei **Tehnologii Web** am realizat, în echipa formată din trei persoane, un proiect ce constă într-o **aplicație web** care să permită gestionarea notițelor luate la curs/seminar, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
 *TEHNOLOGIILE UTILIZATE:* <br />
-֍ Limbajele de programare – JavaScript, HTML <br />
-֍ Mediul de dezvoltare – Visual Studio Code <br />
+֍ Limbajele de programare – **JavaScript, HTML** <br />
+֍ Mediul de dezvoltare – **Visual Studio Code** <br />
 
 *DESCRIERE:* <br />
 + Aplicația permite ***organizarea notițelor*** de către student în funcție de materiile la care participă și activitățile de studiu individual. 
